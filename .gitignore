@@ -17,6 +17,6 @@ test-results/
 .vitest-cache/
 
 # Editor and OS artifacts
-.vscode/settings.json
 .idea/
 Thumbs.db
+config.bat
